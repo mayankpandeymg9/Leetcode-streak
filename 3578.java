@@ -34,3 +34,7 @@ class Solution {
         return (int) dp[n];
     }
 }
+
+
+
+/// Original code from- https://github.com/abhinavsharma2471716/dsa-java/blob/main/2025/Leetcode%20Daily%20Problems/DP/3578.%20Count%20Partitions%20With%20Max-Min%20Difference%20at%20Most%20K
