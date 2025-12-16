@@ -1,3 +1,5 @@
+///code from: https://leetcode.com/problems/maximum-profit-from-trading-stocks-with-discounts/solutions/7416796/simple-tree-dp-solution-java-c-complete-79bnz/
+
 class Solution {
     List<Integer>[] tree;
     int[] buyPrice, sellPrice;
